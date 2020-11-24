@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>430</width>
+    <height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralWidget">
+   <layout class="QHBoxLayout" name="horizontalLayout">
+    <item>
+     <layout class="QVBoxLayout" name="verticalLayout">
+      <item>
+       <widget class="QCustomPlot" name="customPlot1" native="true">
+        <zorder>label</zorder>
+       </widget>
+      </item>
+      <item>
+       <widget class="QCustomPlot" name="customPlot2" native="true">
+        <property name="minimumSize">
+         <size>
+          <width>410</width>
+          <height>0</height>
+         </size>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QCustomPlot" name="customPlot3" native="true"/>
+      </item>
+      <item>
+       <widget class="QCustomPlot" name="customPlot4" native="true">
+        <zorder>label</zorder>
+       </widget>
+      </item>
+     </layout>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menuBar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>430</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuCustomPlot">
+    <property name="title">
+     <string>CustomPlot</string>
+    </property>
+    <addaction name="actionColor"/>
+    <addaction name="actionReset_Color"/>
+    <addaction name="actionIncrease_Thickness"/>
+    <addaction name="actionDecrease_Thickness"/>
+    <addaction name="actionRestore"/>
+   </widget>
+   <addaction name="menuCustomPlot"/>
+  </widget>
+  <widget class="QToolBar" name="mainToolBar">
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+   <addaction name="actionColor"/>
+   <addaction name="actionReset_Color"/>
+   <addaction name="actionIncrease_Thickness"/>
+   <addaction name="actionDecrease_Thickness"/>
+   <addaction name="actionRestore"/>
+  </widget>
+  <widget class="QStatusBar" name="statusBar"/>
+  <action name="actionColor">
+   <property name="text">
+    <string>Change Color</string>
+   </property>
+  </action>
+  <action name="actionReset_Color">
+   <property name="text">
+    <string>Reset Color</string>
+   </property>
+  </action>
+  <action name="actionIncrease_Thickness">
+   <property name="text">
+    <string>Increase Thickness</string>
+   </property>
+  </action>
+  <action name="actionDecrease_Thickness">
+   <property name="text">
+    <string>Decrease Thickness</string>
+   </property>
+  </action>
+  <action name="actionRestore">
+   <property name="text">
+    <string>Restore</string>
+   </property>
+  </action>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <customwidgets>
+  <customwidget>
+   <class>QCustomPlot</class>
+   <extends>QWidget</extends>
+   <header>qcustomplot.h</header>
+   <container>1</container>
+  </customwidget>
+ </customwidgets>
+ <resources/>
+ <connections/>
+</ui>
