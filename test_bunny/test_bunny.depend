@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1606683094 source:c:\users\akash\documents\codes\test_bunny\main.cpp
+	<bits/stdc++.h>
+	"bunny.h"
+
+1606680985 c:\users\akash\documents\codes\test_bunny\bunny.h
+	<bits/stdc++.h>
+
+1606680833 source:c:\users\akash\documents\codes\test_bunny\bunny.cpp
+	<bits/stdc++.h>
+	"bunny.h"
+

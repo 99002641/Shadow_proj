@@ -1,0 +1,782 @@
+Name: Bunny Jemima
+Gender:female
+Colour:brown
+Radioactivity:0
+Age:1
+Name: Bunny Leroy
+Gender:male
+Colour:brown
+Radioactivity:0
+Age:1
+Name: Bunny Emery
+Gender:male
+Colour:black
+Radioactivity:0
+Age:1
+Name: Bunny Joy
+Gender:female
+Colour:black
+Radioactivity:0
+Age:1
+Name: Bunny Bianca
+Gender:male
+Colour:spotted
+Radioactivity:0
+Age:1
+Name: Bunny Jemima
+Gender:female
+Colour:brown
+Radioactivity:0
+Age:3
+Name: Bunny Leroy
+Gender:male
+Colour:brown
+Radioactivity:0
+Age:3
+Name: Bunny Emery
+Gender:male
+Colour:black
+Radioactivity:0
+Age:3
+Name: Bunny Joy
+Gender:female
+Colour:black
+Radioactivity:0
+Age:3
+Name: Bunny Bianca
+Gender:male
+Colour:spotted
+Radioactivity:0
+Age:3
+Name: Bunny Hedda
+Gender:male
+Colour:brown
+Radioactivity:0
+Age:1
+Name: Bunny Blossom
+Gender:male
+Colour:black
+Radioactivity:0
+Age:1
+Name: Bunny Jemima
+Gender:female
+Colour:brown
+Radioactivity:0
+Age:5
+Name: Bunny Leroy
+Gender:male
+Colour:brown
+Radioactivity:0
+Age:5
+Name: Bunny Emery
+Gender:male
+Colour:black
+Radioactivity:0
+Age:5
+Name: Bunny Joy
+Gender:female
+Colour:black
+Radioactivity:0
+Age:5
+Name: Bunny Bianca
+Gender:male
+Colour:spotted
+Radioactivity:0
+Age:5
+Name: Bunny Hedda
+Gender:male
+Colour:brown
+Radioactivity:0
+Age:3
+Name: Bunny Blossom
+Gender:male
+Colour:black
+Radioactivity:0
+Age:3
+Name: Bunny Justina
+Gender:male
+Colour:brown
+Radioactivity:0
+Age:1
+Name: Bunny Bianca
+Gender:female
+Colour:black
+Radioactivity:0
+Age:1
+Name: Bunny Jemima
+Gender:female
+Colour:brown
+Radioactivity:0
+Age:7
+Name: Bunny Leroy
+Gender:male
+Colour:brown
+Radioactivity:0
+Age:7
+Name: Bunny Emery
+Gender:male
+Colour:black
+Radioactivity:0
+Age:7
+Name: Bunny Joy
+Gender:female
+Colour:black
+Radioactivity:0
+Age:7
+Name: Bunny Bianca
+Gender:male
+Colour:spotted
+Radioactivity:0
+Age:7
+Name: Bunny Hedda
+Gender:male
+Colour:brown
+Radioactivity:0
+Age:5
+Name: Bunny Blossom
+Gender:male
+Colour:black
+Radioactivity:0
+Age:5
+Name: Bunny Justina
+Gender:male
+Colour:brown
+Radioactivity:0
+Age:3
+Name: Bunny Bianca
+Gender:female
+Colour:black
+Radioactivity:0
+Age:3
+Name: Bunny Harding
+Gender:male
+Colour:brown
+Radioactivity:0
+Age:1
+Name: Bunny Ifeoma
+Gender:female
+Colour:black
+Radioactivity:0
+Age:1
+Name: Bunny Dahlia
+Gender:male
+Colour:black
+Radioactivity:0
+Age:1
+Name: Bunny Jemima
+Gender:female
+Colour:brown
+Radioactivity:0
+Age:9
+Name: Bunny Leroy
+Gender:male
+Colour:brown
+Radioactivity:0
+Age:9
+Name: Bunny Emery
+Gender:male
+Colour:black
+Radioactivity:0
+Age:9
+Name: Bunny Joy
+Gender:female
+Colour:black
+Radioactivity:0
+Age:9
+Name: Bunny Bianca
+Gender:male
+Colour:spotted
+Radioactivity:0
+Age:9
+Name: Bunny Hedda
+Gender:male
+Colour:brown
+Radioactivity:0
+Age:7
+Name: Bunny Blossom
+Gender:male
+Colour:black
+Radioactivity:0
+Age:7
+Name: Bunny Justina
+Gender:male
+Colour:brown
+Radioactivity:0
+Age:5
+Name: Bunny Bianca
+Gender:female
+Colour:black
+Radioactivity:0
+Age:5
+Name: Bunny Harding
+Gender:male
+Colour:brown
+Radioactivity:0
+Age:3
+Name: Bunny Ifeoma
+Gender:female
+Colour:black
+Radioactivity:0
+Age:3
+Name: Bunny Dahlia
+Gender:male
+Colour:black
+Radioactivity:0
+Age:3
+Name: Bunny Nayda
+Gender:male
+Colour:brown
+Radioactivity:0
+Age:1
+Name: Bunny Halla
+Gender:male
+Colour:black
+Radioactivity:0
+Age:1
+Name: Bunny Nayda
+Gender:female
+Colour:black
+Radioactivity:0
+Age:1
+Name: Bunny Leo
+Gender:male
+Colour:black
+Radioactivity:0
+Age:1
+Name: Bunny Jemima
+Gender:female
+Colour:brown
+Radioactivity:0
+Age:11
+Name: Bunny Leroy
+Gender:male
+Colour:brown
+Radioactivity:0
+Age:11
+Name: Bunny Emery
+Gender:male
+Colour:black
+Radioactivity:0
+Age:11
+Name: Bunny Joy
+Gender:female
+Colour:black
+Radioactivity:0
+Age:11
+Name: Bunny Bianca
+Gender:male
+Colour:spotted
+Radioactivity:0
+Age:11
+Name: Bunny Hedda
+Gender:male
+Colour:brown
+Radioactivity:0
+Age:9
+Name: Bunny Blossom
+Gender:male
+Colour:black
+Radioactivity:0
+Age:9
+Name: Bunny Justina
+Gender:male
+Colour:brown
+Radioactivity:0
+Age:7
+Name: Bunny Bianca
+Gender:female
+Colour:black
+Radioactivity:0
+Age:7
+Name: Bunny Harding
+Gender:male
+Colour:brown
+Radioactivity:0
+Age:5
+Name: Bunny Ifeoma
+Gender:female
+Colour:black
+Radioactivity:0
+Age:5
+Name: Bunny Dahlia
+Gender:male
+Colour:black
+Radioactivity:0
+Age:5
+Name: Bunny Nayda
+Gender:male
+Colour:brown
+Radioactivity:0
+Age:3
+Name: Bunny Halla
+Gender:male
+Colour:black
+Radioactivity:0
+Age:3
+Name: Bunny Nayda
+Gender:female
+Colour:black
+Radioactivity:0
+Age:3
+Name: Bunny Leo
+Gender:male
+Colour:black
+Radioactivity:0
+Age:3
+Name: Bunny Kaye
+Gender:female
+Colour:brown
+Radioactivity:0
+Age:1
+Name: Bunny Lamar
+Gender:female
+Colour:black
+Radioactivity:0
+Age:1
+Name: Bunny Desirae
+Gender:male
+Colour:black
+Radioactivity:0
+Age:1
+Name: Bunny Natalie
+Gender:male
+Colour:black
+Radioactivity:0
+Age:1
+Name: Bunny Karina
+Gender:male
+Colour:black
+Radioactivity:0
+Age:1
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Jemima
+Gender:female
+Colour:brown
+Radioactivity:1
+Age:13
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Jemima
+Gender:female
+Colour:brown
+Radioactivity:0
+Age:1
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Leroy
+Gender:male
+Colour:brown
+Radioactivity:0
+Age:1
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Emery
+Gender:male
+Colour:black
+Radioactivity:0
+Age:1
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Joy
+Gender:female
+Colour:black
+Radioactivity:0
+Age:1
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Bianca
+Gender:male
+Colour:spotted
+Radioactivity:0
+Age:1
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Jemima
+Gender:female
+Colour:brown
+Radioactivity:0
+Age:3
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Leroy
+Gender:male
+Colour:brown
+Radioactivity:0
+Age:3
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Emery
+Gender:male
+Colour:black
+Radioactivity:0
+Age:3
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Joy
+Gender:female
+Colour:black
+Radioactivity:0
+Age:3
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Bianca
+Gender:male
+Colour:spotted
+Radioactivity:0
+Age:3
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Hedda
+Gender:male
+Colour:brown
+Radioactivity:0
+Age:1
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Blossom
+Gender:male
+Colour:black
+Radioactivity:0
+Age:1
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Jemima
+Gender:female
+Colour:brown
+Radioactivity:0
+Age:5
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Leroy
+Gender:male
+Colour:brown
+Radioactivity:0
+Age:5
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Emery
+Gender:male
+Colour:black
+Radioactivity:0
+Age:5
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Joy
+Gender:female
+Colour:black
+Radioactivity:0
+Age:5
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Bianca
+Gender:male
+Colour:spotted
+Radioactivity:0
+Age:5
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Hedda
+Gender:male
+Colour:brown
+Radioactivity:0
+Age:3
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Blossom
+Gender:male
+Colour:black
+Radioactivity:0
+Age:3
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Justina
+Gender:male
+Colour:brown
+Radioactivity:0
+Age:1
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Bianca
+Gender:female
+Colour:black
+Radioactivity:0
+Age:1
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Jemima
+Gender:female
+Colour:brown
+Radioactivity:0
+Age:7
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Leroy
+Gender:male
+Colour:brown
+Radioactivity:0
+Age:7
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Emery
+Gender:male
+Colour:black
+Radioactivity:0
+Age:7
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Joy
+Gender:female
+Colour:black
+Radioactivity:0
+Age:7
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Bianca
+Gender:male
+Colour:spotted
+Radioactivity:0
+Age:7
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Hedda
+Gender:male
+Colour:brown
+Radioactivity:0
+Age:5
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Blossom
+Gender:male
+Colour:black
+Radioactivity:0
+Age:5
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Justina
+Gender:male
+Colour:brown
+Radioactivity:0
+Age:3
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Bianca
+Gender:female
+Colour:black
+Radioactivity:0
+Age:3
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Harding
+Gender:male
+Colour:brown
+Radioactivity:0
+Age:1
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Ifeoma
+Gender:female
+Colour:black
+Radioactivity:0
+Age:1
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Dahlia
+Gender:male
+Colour:black
+Radioactivity:0
+Age:1
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Jemima
+Gender:female
+Colour:brown
+Radioactivity:0
+Age:9
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Leroy
+Gender:male
+Colour:brown
+Radioactivity:0
+Age:9
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Emery
+Gender:male
+Colour:black
+Radioactivity:0
+Age:9
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Joy
+Gender:female
+Colour:black
+Radioactivity:0
+Age:9
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Bianca
+Gender:male
+Colour:spotted
+Radioactivity:0
+Age:9
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Hedda
+Gender:male
+Colour:brown
+Radioactivity:0
+Age:7
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Blossom
+Gender:male
+Colour:black
+Radioactivity:0
+Age:7
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Justina
+Gender:male
+Colour:brown
+Radioactivity:0
+Age:5
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Bianca
+Gender:female
+Colour:black
+Radioactivity:0
+Age:5
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Harding
+Gender:male
+Colour:brown
+Radioactivity:0
+Age:3
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Ifeoma
+Gender:female
+Colour:black
+Radioactivity:0
+Age:3
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Dahlia
+Gender:male
+Colour:black
+Radioactivity:0
+Age:3
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Nayda
+Gender:male
+Colour:brown
+Radioactivity:0
+Age:1
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Halla
+Gender:male
+Colour:black
+Radioactivity:0
+Age:1
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Nayda
+Gender:female
+Colour:black
+Radioactivity:0
+Age:1
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Leo
+Gender:male
+Colour:black
+Radioactivity:0
+Age:1
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Jemima
+Gender:female
+Colour:brown
+Radioactivity:0
+Age:11
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Leroy
+Gender:male
+Colour:brown
+Radioactivity:0
+Age:11
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Emery
+Gender:male
+Colour:black
+Radioactivity:0
+Age:11
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Joy
+Gender:female
+Colour:black
+Radioactivity:0
+Age:11
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Bianca
+Gender:male
+Colour:spotted
+Radioactivity:0
+Age:11
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Hedda
+Gender:male
+Colour:brown
+Radioactivity:0
+Age:9
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Blossom
+Gender:male
+Colour:black
+Radioactivity:0
+Age:9
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Justina
+Gender:male
+Colour:brown
+Radioactivity:0
+Age:7
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Bianca
+Gender:female
+Colour:black
+Radioactivity:0
+Age:7
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Harding
+Gender:male
+Colour:brown
+Radioactivity:0
+Age:5
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Ifeoma
+Gender:female
+Colour:black
+Radioactivity:0
+Age:5
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Dahlia
+Gender:male
+Colour:black
+Radioactivity:0
+Age:5
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Nayda
+Gender:male
+Colour:brown
+Radioactivity:0
+Age:3
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Halla
+Gender:male
+Colour:black
+Radioactivity:0
+Age:3
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Nayda
+Gender:female
+Colour:black
+Radioactivity:0
+Age:3
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Leo
+Gender:male
+Colour:black
+Radioactivity:0
+Age:3
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Kaye
+Gender:female
+Colour:brown
+Radioactivity:0
+Age:1
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Lamar
+Gender:female
+Colour:black
+Radioactivity:0
+Age:1
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Desirae
+Gender:male
+Colour:black
+Radioactivity:0
+Age:1
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Natalie
+Gender:male
+Colour:black
+Radioactivity:0
+Age:1
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Karina
+Gender:male
+Colour:black
+Radioactivity:0
+Age:1
+-------------------------------------------------------------------------------------------------------
+Name: Bunny Jemima
+Gender:female
+Colour:brown
+Radioactivity:1
+Age:13
